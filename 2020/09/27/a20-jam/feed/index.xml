@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: A20 Game Jam	</title>
+	<atom:link href="/2020/09/27/a20-jam/feed/" rel="self" type="application/rss+xml" />
+	<link>/2020/09/27/a20-jam/</link>
+	<description></description>
+	<lastBuildDate>Thu, 15 Oct 2020 05:40:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.7</generator>
+	<item>
+		<title>
+		By: Conor McDonough		</title>
+		<link>/2020/09/27/a20-jam/#comment-16</link>
+
+		<dc:creator><![CDATA[Conor McDonough]]></dc:creator>
+		<pubDate>Thu, 15 Oct 2020 05:40:00 +0000</pubDate>
+		<guid isPermaLink="false">/?p=437#comment-16</guid>
+
+					<description><![CDATA[I loved playing Humans Go To Moon and thought the gravity simulation was very accurate.  I thought it was very easy to get into and liked that it was extremely easy to start a new game after losing.]]></description>
+			<content:encoded><![CDATA[<p>I loved playing Humans Go To Moon and thought the gravity simulation was very accurate.  I thought it was very easy to get into and liked that it was extremely easy to start a new game after losing.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Conor McDonough		</title>
+		<link>/2020/09/27/a20-jam/#comment-15</link>
+
+		<dc:creator><![CDATA[Conor McDonough]]></dc:creator>
+		<pubDate>Thu, 15 Oct 2020 05:31:25 +0000</pubDate>
+		<guid isPermaLink="false">/?p=437#comment-15</guid>
+
+					<description><![CDATA[I enjoyed Pirate Jam very much and loved the controls.  I thought the controls accurately depicted the delay in movement by a pirate ship.  I loved the difficulty of the game and played several times trying to make it to the end.]]></description>
+			<content:encoded><![CDATA[<p>I enjoyed Pirate Jam very much and loved the controls.  I thought the controls accurately depicted the delay in movement by a pirate ship.  I loved the difficulty of the game and played several times trying to make it to the end.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
