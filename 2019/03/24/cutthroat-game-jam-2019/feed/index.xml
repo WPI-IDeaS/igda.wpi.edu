@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Cutthroat Game Jam 2019	</title>
-	<atom:link href="/2019/03/24/cutthroat-game-jam-2019/feed/" rel="self" type="application/rss+xml" />
-	<link>/2019/03/24/cutthroat-game-jam-2019/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description></description>
 	<lastBuildDate>Tue, 28 Apr 2020 08:23:03 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		By: Antoinette		</title>
-		<link>/2019/03/24/cutthroat-game-jam-2019/#comment-1</link>
+		<link>./../index.html#comment-1</link>
 
 		<dc:creator><![CDATA[Antoinette]]></dc:creator>
 		<pubDate>Tue, 28 Apr 2020 08:23:03 +0000</pubDate>
-		<guid isPermaLink="false">/?p=170#comment-1</guid>
+		<guid isPermaLink="false">./../../../../../index.html?p=170#comment-1</guid>
 
 					<description><![CDATA[If that won&#039;t affect anyone sentimentally then you definitely 
 ought to be more susceptible to not end nevertheless.]]></description>

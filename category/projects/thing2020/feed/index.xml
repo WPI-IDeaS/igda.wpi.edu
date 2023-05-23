@@ -9,8 +9,8 @@
 
 <channel>
 	<title>2020 Thing Jam &#8211; IGDA WPI</title>
-	<atom:link href="/category/projects/thing2020/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../index.html</link>
 	<description></description>
 	<lastBuildDate>Thu, 22 Oct 2020 04:03:58 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,22 +21,22 @@
 	<generator>https://wordpress.org/?v=5.9.7</generator>
 
 <image>
-	<url>/wp-content/uploads/2020/03/cropped-igda_wpi_logo-32x32.png</url>
+	<url>./../../../../wp-content/uploads/2020/03/cropped-igda_wpi_logo-32x32.png</url>
 	<title>2020 Thing Jam &#8211; IGDA WPI</title>
-	<link>/</link>
+	<link>./../../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Tiny Swords &#8211; Emma Lowry &#8211; Thing Jam 2020</title>
-		<link>/2020/10/21/tiny-swords-emma-lowry-thing-jam-2020/</link>
-					<comments>/2020/10/21/tiny-swords-emma-lowry-thing-jam-2020/#respond</comments>
+		<link>./../../../../2020/10/21/tiny-swords-emma-lowry-thing-jam-2020/index.html</link>
+					<comments>./../../../../2020/10/21/tiny-swords-emma-lowry-thing-jam-2020/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Emma Lowry]]></dc:creator>
 		<pubDate>Wed, 21 Oct 2020 23:11:28 +0000</pubDate>
 				<category><![CDATA[2020 Thing Jam]]></category>
 		<category><![CDATA[Projects]]></category>
-		<guid isPermaLink="false">/?p=531</guid>
+		<guid isPermaLink="false">./../../../../index.html?p=531</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[
@@ -51,23 +51,23 @@
 <figure class="wp-block-image"><img src="https://media.discordapp.net/attachments/739248786735497216/768580309071429632/image2.jpg?width=812&amp;height=1082" alt=""/></figure>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2020/10/21/tiny-swords-emma-lowry-thing-jam-2020/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../../2020/10/21/tiny-swords-emma-lowry-thing-jam-2020/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Fear of Depths Soundtrack &#8211; Ben Slattery &#8211; Thing Jam 2020</title>
-		<link>/2020/10/21/fear-of-depths-soundtrack-ben-slattery-thing-jam-2020/</link>
-					<comments>/2020/10/21/fear-of-depths-soundtrack-ben-slattery-thing-jam-2020/#respond</comments>
+		<link>./../../../../2020/10/21/fear-of-depths-soundtrack-ben-slattery-thing-jam-2020/index.html</link>
+					<comments>./../../../../2020/10/21/fear-of-depths-soundtrack-ben-slattery-thing-jam-2020/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Benjamin Slattery]]></dc:creator>
 		<pubDate>Wed, 21 Oct 2020 21:16:59 +0000</pubDate>
 				<category><![CDATA[2020 Thing Jam]]></category>
 		<category><![CDATA[Projects]]></category>
-		<guid isPermaLink="false">/?p=525</guid>
+		<guid isPermaLink="false">./../../../../index.html?p=525</guid>
 
-					<description><![CDATA[I&#8217;m submitting my first draft of some songs for the soundtrack for a game about cave diving I&#8217;m working on. I was planning to make&#8230;<div class="more-link-wrapper"><a class="more-link" href="/2020/10/21/fear-of-depths-soundtrack-ben-slattery-thing-jam-2020/">Continue Reading<span class="screen-reader-text">Fear of Depths Soundtrack &#8211; Ben Slattery &#8211; Thing Jam 2020</span></a></div>]]></description>
+					<description><![CDATA[I&#8217;m submitting my first draft of some songs for the soundtrack for a game about cave diving I&#8217;m working on. I was planning to make&#8230;<div class="more-link-wrapper"><a class="more-link" href="./../../../../2020/10/21/fear-of-depths-soundtrack-ben-slattery-thing-jam-2020/index.html">Continue Reading<span class="screen-reader-text">Fear of Depths Soundtrack &#8211; Ben Slattery &#8211; Thing Jam 2020</span></a></div>]]></description>
 										<content:encoded><![CDATA[
 <p>I&#8217;m submitting my first draft of some songs for the soundtrack for a game about cave diving I&#8217;m working on. I was planning to make the game for the jam too but I ran out of time</p>
 
@@ -92,41 +92,41 @@
 <iframe src="https://drive.google.com/file/d/1AewA7hNvhfbKxOK9diY8Qrl9S3H1YfIv/preview" width="640" height="480"></iframe>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2020/10/21/fear-of-depths-soundtrack-ben-slattery-thing-jam-2020/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../../2020/10/21/fear-of-depths-soundtrack-ben-slattery-thing-jam-2020/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Climb the Tower &#8211; Samuel Darer- Thing Jam 2020</title>
-		<link>/2020/10/21/climb-the-tower-samuel-darer-thing-jam-2020/</link>
-					<comments>/2020/10/21/climb-the-tower-samuel-darer-thing-jam-2020/#respond</comments>
+		<link>./../../../../2020/10/21/climb-the-tower-samuel-darer-thing-jam-2020/index.html</link>
+					<comments>./../../../../2020/10/21/climb-the-tower-samuel-darer-thing-jam-2020/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Samuel Darer]]></dc:creator>
 		<pubDate>Wed, 21 Oct 2020 03:44:39 +0000</pubDate>
 				<category><![CDATA[2020 Thing Jam]]></category>
-		<guid isPermaLink="false">/?p=520</guid>
+		<guid isPermaLink="false">./../../../../index.html?p=520</guid>
 
-					<description><![CDATA[This is my second game jam, and I&#8217;m happy about what I was able to accomplish, this time on my own! My game is called&#8230;<div class="more-link-wrapper"><a class="more-link" href="/2020/10/21/climb-the-tower-samuel-darer-thing-jam-2020/">Continue Reading<span class="screen-reader-text">Climb the Tower &#8211; Samuel Darer- Thing Jam 2020</span></a></div>]]></description>
+					<description><![CDATA[This is my second game jam, and I&#8217;m happy about what I was able to accomplish, this time on my own! My game is called&#8230;<div class="more-link-wrapper"><a class="more-link" href="./../../../../2020/10/21/climb-the-tower-samuel-darer-thing-jam-2020/index.html">Continue Reading<span class="screen-reader-text">Climb the Tower &#8211; Samuel Darer- Thing Jam 2020</span></a></div>]]></description>
 										<content:encoded><![CDATA[
 <p>This is my second game jam, and I&#8217;m happy about what I was able to accomplish, this time on my own! My game is called Climb the Tower, and it certainly has some rough edges. I don&#8217;t know if this is the correct link to what I made, but here is one: <a href="https://drive.google.com/drive/search?q=parent:1UfoqbFewZg3DdAQ9mcpy0aQKRvXXQzzt">https://drive.google.com/drive/search?q=parent:1UfoqbFewZg3DdAQ9mcpy0aQKRvXXQzzt</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2020/10/21/climb-the-tower-samuel-darer-thing-jam-2020/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../../2020/10/21/climb-the-tower-samuel-darer-thing-jam-2020/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Jack-o-Random &#8211; Henry Stadolnik &#8211; Thing Jam 2020</title>
-		<link>/2020/10/20/jack-o-random-henry-stadolnik-thing-jam-2020/</link>
-					<comments>/2020/10/20/jack-o-random-henry-stadolnik-thing-jam-2020/#respond</comments>
+		<link>./../../../../2020/10/20/jack-o-random-henry-stadolnik-thing-jam-2020/index.html</link>
+					<comments>./../../../../2020/10/20/jack-o-random-henry-stadolnik-thing-jam-2020/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Joseph Stadolnik]]></dc:creator>
 		<pubDate>Tue, 20 Oct 2020 21:29:41 +0000</pubDate>
 				<category><![CDATA[2020 Thing Jam]]></category>
 		<category><![CDATA[Projects]]></category>
-		<guid isPermaLink="false">/?p=515</guid>
+		<guid isPermaLink="false">./../../../../index.html?p=515</guid>
 
 					<description><![CDATA[A simple jack-o-lantern generator, created in PICO-8 with just 1 tweet&#8217;s worth of code! Full Code: You can run the cart for yourself here: https://www.lexaloffle.com/bbs/?tid=39984]]></description>
 										<content:encoded><![CDATA[
@@ -161,7 +161,7 @@ goto _</code></pre>
 <p><br>You can run the cart for yourself here:<a href=" https://www.lexaloffle.com/bbs/?tid=39984"> https://www.lexaloffle.com/bbs/?tid=39984</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2020/10/20/jack-o-random-henry-stadolnik-thing-jam-2020/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../../2020/10/20/jack-o-random-henry-stadolnik-thing-jam-2020/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

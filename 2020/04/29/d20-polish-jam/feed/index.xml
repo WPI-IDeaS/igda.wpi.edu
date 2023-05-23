@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: D20 Polish Jam	</title>
-	<atom:link href="/2020/04/29/d20-polish-jam/feed/" rel="self" type="application/rss+xml" />
-	<link>/2020/04/29/d20-polish-jam/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description></description>
 	<lastBuildDate>Fri, 15 May 2020 14:27:47 +0000</lastBuildDate>
 	<sy:updatePeriod>
